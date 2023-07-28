@@ -1,7 +1,7 @@
 # Oh Shent! creative programming
 
 ## Description
-Basically Oh Shent! is my WebDeveloper portfolio. A sample of what I can develop with my skills combined with creativity and awesomeness. in this project, as well as the projects shown in this webpage will show good examples of what I can develop combining the programming languages I seek to improve everyday, such as HTML, CSS, JAVASCRIPT, MARKDOWN, etc. I hope you get as impressed as I hope you will.
+Basically Oh Shent! is my WebDeveloper portfolio. A sample of what I can develop with my skills combined with creativity and awesomeness. In this project, as well as the projects shown in this webpage, you will see good examples of what I can develop combining the programming languages I seek to improve everyday, such as HTML, CSS, JAVASCRIPT, MARKDOWN, etc. I hope you get as impressed as I hope you will.
 
 In case you're asking yourself, the name OhShent! was inspired by a Brazillian expression, "Oxente", very common in some northeastern parts of the country and is an interjection with no direct meaning, but it expresses suprise or disbelief in something. Just like "What?!" in english. It also sounds a little bit alike another english expression that could be used to express surprise, but I don't remember what it was.
 
